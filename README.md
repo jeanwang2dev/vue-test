@@ -1,4 +1,20 @@
-# vue-testing
+# Vue Testing with Vue Test Utils
+
+[Youtube Link](https://www.youtube.com/watch?v=QIDhzBg5eWY&t=1521s)
+
+## Create a project with vue(select vue3 default)
+```
+vue create project-name
+cd project-name
+vue add unit-jest
+```
+
+## Run test with
+```
+npm run test:unit
+```
+
+## vue-testing
 
 ## Project setup
 ```
