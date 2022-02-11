@@ -1,6 +1,7 @@
 # Vue Testing with Vue Test Utils
 
 Tutorial code followed a [Youtube Link](https://www.youtube.com/watch?v=QIDhzBg5eWY&t=1521s)
+Tutorial code followed a [Digital Ocean Post](https://www.digitalocean.com/community/tutorials/vuejs-vue-testing)
 
 ## Create a project with vue(select vue3 default)
 ```
