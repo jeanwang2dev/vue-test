@@ -1,6 +1,6 @@
 # Vue Testing with Vue Test Utils
 
-[Youtube Link](https://www.youtube.com/watch?v=QIDhzBg5eWY&t=1521s)
+Tutorial code followed a [Youtube Link](https://www.youtube.com/watch?v=QIDhzBg5eWY&t=1521s)
 
 ## Create a project with vue(select vue3 default)
 ```
