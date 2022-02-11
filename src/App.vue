@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <Message msg="Good day!"/>
+  <Message msg="Firebase Project!"/>
   <Question />
 </template>
 
